@@ -1,6 +1,6 @@
 # SafeRoute – WWII Simulation Mapping Tool
 
-**Hack Forsyth Hackathon Project (Denmark High School, Forsyth County)**  
+**Hack Forsyth Hackathon Project (Forsyth County)**  
 _Created by Shreyas Boddani, Shourya Mishra, and Brandon Potter_
 
 SafeRoute is a simulation project developed during the inaugural Hack Forsyth hackathon, where teams had 24 hours to build projects inspired by historical contexts before the 1980s. Our team focused on **World War II**, designing an interactive tool that imagines how modern mapping and routing technology might have helped civilians survive during wartime.
