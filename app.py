@@ -296,7 +296,7 @@ class MapWidget(tkintermapview.TkinterMapView):
                                                       border_width=2,
                                                       border_color=THEME["border_color"],
                                                       corner_radius=2)
-        self.clear_button.place(x=15, y=80)
+        self.clear_button.place(x=20, y=100)
 
         self._load_icons()
 
